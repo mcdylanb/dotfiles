@@ -1,0 +1,8 @@
+# Font configuration (changes require restart)
+font:
+  # The size to use.
+  size: 7
+  normal:
+    family: Source Code Variable
+    style: Regular
+
